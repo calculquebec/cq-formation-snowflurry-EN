@@ -1,2 +1,2 @@
-# IntroSnowflurry-ÀEN
+# IntroSnowflurry-EN
 Introduction to Julia and Snowflurry
